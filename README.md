@@ -1,27 +1,171 @@
-<h1 align="center">Hi 👋, I'm AlanNois</h1>
-<h3 align="center">A passionate BKer from HCMUT</h3>
+<!--Banner-->
+![AlanNois Banner Image](./banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alannois&label=Profile%20views&color=0e75b6&style=flat" alt="alannois" /> </p>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alannois" alt="alannois" /></a> </p>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʟᴀɴɴᴏɪs! 
+*Digital Craftsman (CS / Programmer)*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a <strong>Computer Science</strong> enthusiast and Machine Learning Enthusiast with a huge love for Python, Docker, K8s, Finetuning and Data Visualization. </p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- ❤ Contributing to Open Source.
 
 - 🔭 I’m currently working on [Truyen Viet - Truyện cho người việt với Paperback](https://github.com/AlanNois/TruyenViet-0.8)
-
-- 🌱 I’m currently learning **DSA, BA and DA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlanNois/](https://github.com/AlanNois/)
 
 - 📫 How to reach me **dinhductrung0706@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- 💻 Visit my [Portfolio](https://self.so/dinhductrung) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AlanNois&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="AlanNois" style="padding-right:20px;" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alannois&show_icons=true&locale=en&layout=compact" alt="alannois" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alannois&show_icons=true&locale=en" alt="alannois" /></p>
+<!--Languages and Tools Section-->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+<div style="display: flex; align-items: stretch; gap: 20px;">
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+      <img alt="Skills Animation" src="./Skills_Animation_White.gif">
+    </picture>
+  </div>
+  <div style="flex: 1;">
+    <h3 align="left">Current Learning</h3>
+    <ul align="left">
+      <li>Deepening my knowledge in Machine Learning and AI.</li>
+      <li>Exploring MCPs and Docker techniques.</li>
+      <li>Improving my skills in cloud computing with AWS and Azure.</li>
+    </ul>
+  </div>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alannois&" alt="alannois" /></p>
+---
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/AlanNois">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=AlanNois&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=AlanNois&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=AlanNois&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AlanNois">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/AlanNois/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AlanNois">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=AlanNois&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AlanNois">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=AlanNois&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AlanNois/TruyenViet-0.8">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=AlanNois&repo=TruyenViet-0.8&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/AlanNois">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AlanNois&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanNois&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=People%20rarely%20succeed%20unless%20they%20have%20fun%20in%20what%20they%20are%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:dinhductrung0706@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="dinhductrung0706@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.github.com/AlanNois" target="_blank">
+<img src="./github.png" width=50 height=50 alt="AlanNois" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/trung-đinh-đức-0815a0368" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://codeforces.com/profile/sealonghoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sealonghoang" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/mcxpyaygqf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mcxpyaygqf" height="30" width="40" /></a>
+</div>
+<br/>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
