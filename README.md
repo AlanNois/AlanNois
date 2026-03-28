@@ -177,11 +177,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=Everyone%20can%20rise%20above%20their%20circumstances%20and%20achieve%20success%20if%20they%20are%20dedicated%20to%20and%20passionate%20about%20what%20they%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=If%20you%20are%20lucky%20enough%20to%20find%20love%2C%20remember%20it%20is%20there%20and%20don't%20throw%20it%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
