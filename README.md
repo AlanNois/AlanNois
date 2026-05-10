@@ -220,11 +220,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Life%20is%20a%20challenge%2C%20meet%20it!%20Life%20is%20a%20dream%2C%20realize%20it!%20Life%20is%20a%20game%2C%20play%20it!%20Life%20is%20love%2C%20enjoy%20it!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Work%20harder%20on%20yourself%20than%20you%20do%20on%20your%20job.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
