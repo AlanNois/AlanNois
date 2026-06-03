@@ -244,11 +244,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=It%20is%20up%20to%20each%20of%20us%20to%20sing%20as%20we%20feel%20moved%20by%20the%20overall%20song%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther%20King%2C%20Jr.&quote=A%20man%20should%20do%20his%20job%20so%20well%20that%20the%20living%2C%20the%20dead%2C%20and%20the%20unborn%20could%20do%20it%20no%20better.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
