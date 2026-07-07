@@ -278,11 +278,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Abraham%20Lincoln&quote=That%20some%20achieve%20great%20success%20is%20proof%20to%20all%20that%20others%20can%20achieve%20it%20as%20well.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=You%20give%20but%20little%20when%20you%20give%20of%20your%20possessions.%20It%20is%20when%20you%20give%20of%20yourself%20that%20you%20truly%20give.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
