@@ -373,11 +373,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=While%20some%20of%20us%20act%20without%20thinking%2C%20too%20many%20of%20us%20think%20without%20acting.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=When%20your%20intuition%20is%20strong%2C%20follow%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
