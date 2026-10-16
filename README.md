@@ -378,11 +378,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=A%20random%20act%20of%20kindness%2C%20no%20matter%20how%20small%2C%20can%20make%20a%20tremendous%20impact%20on%20someone%20else's%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20McCandless&quote=Don%C2%B4t%20hesitate%20or%20allow%20yourself%20to%20make%20excuses.%20Just%20get%20out%20and%20do%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
