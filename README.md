@@ -409,11 +409,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=You%20don't%20need%20anybody%20to%20tell%20you%20who%20you%20are%20or%20what%20you%20are.%20You%20are%20what%20you%20are!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=A%20person%20without%20a%20sense%20of%20humor%20is%20like%20a%20wagon%20without%20springs%2C%20jolted%20by%20every%20pebble%20in%20the%20road.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
